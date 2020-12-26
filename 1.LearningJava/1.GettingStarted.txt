@@ -1,0 +1,3 @@
+-Java Runtime Environment(JRE)
+
+-You need to install JDK to build java programs
