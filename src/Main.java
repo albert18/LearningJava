@@ -1,7 +1,14 @@
 import java.util.Scanner;
 
 public class Main {
+    public static void announceDeveloperTeaTime() {
+        System.out.println("This is a test");
+    }
+
     public static void main(String[] args) {
+        announceDeveloperTeaTime();
+
+
 //        //System.out.println("This is a test again");
 //        int studentAge = 15;
 //        double studentGPA = 3.45;
@@ -30,19 +37,46 @@ public class Main {
 //        }
 
 
-        Scanner input = new Scanner(System.in);
-        boolean isOnRepeat = true;
-        while (isOnRepeat) {
-            System.out.println("Playing a song");
-            String userInput = input.next();
-            String updatedText = userInput.toUpperCase();
+//        Scanner input = new Scanner(System.in);
+//        boolean isOnRepeat = true;
+//        while (isOnRepeat) {
+//            System.out.println("Playing a song");
+//            String userInput = input.next();
+//            String updatedText = userInput.toUpperCase();
+//
+//
+//            if (userInput.equals("yes")) {
+//                isOnRepeat = false;
+//            }
+//        }
+//        System.out.println("playing next song");
 
 
-            if (userInput.equals("yes")) {
-                isOnRepeat = false;
-            }
-        }
-        System.out.println("playing next song");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
