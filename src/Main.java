@@ -1,12 +1,14 @@
 import java.util.Scanner;
 
 public class Main {
-    public static void announceDeveloperTeaTime() {
-        System.out.println("This is a test");
-    }
+//    public static void announceDeveloperTeaTime() {
+//        System.out.println("This is a test");
+//    }
 
     public static void main(String[] args) {
-        announceDeveloperTeaTime();
+//        announceDeveloperTeaTime();
+        Triagle classesTest = new Triagle();
+        System.out.println(classesTest.base = 3.2);
 
 
 //        //System.out.println("This is a test again");
